@@ -1,0 +1,6 @@
+Var std();
+std_fullname = 'Bamidele Gbenga'
+std_dept = 'Civil Engineering'
+std_level = 200 'level'
+std_course = 'Human Anatomy'
+std_enrollmentDate = '20 December 2022'
