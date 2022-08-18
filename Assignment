@@ -1,6 +1,9 @@
-Var std();
-std_fullname = 'Bamidele Gbenga'
-std_dept = 'Civil Engineering'
-std_level = 200 'level'
-std_course = 'Human Anatomy'
-std_enrollmentDate = '20 December 2022'
+var FullName = "Adedokun Marvelous";
+console.log(FullName)
+var dept = "CYS";
+console.log(dept)
+var Level = "500 level";
+console.log(Level)
+var enrollment_date = new Date("August 18, 2022 11:13:00");
+console.log(enrollment_date)
+
